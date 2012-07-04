@@ -1,0 +1,3 @@
+[submodule "lib/plugins/box2d"]
+	path = lib/plugins/box2d
+	url = https://github.com/jwagner/box2d2-js.git
